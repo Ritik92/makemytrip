@@ -1,2 +1,1 @@
-#REIMAGINE
-#MAKEMYTRIP
+MakeMyTrip
